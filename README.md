@@ -136,9 +136,10 @@ The API will be available at `http://127.0.0.1:5000/`.
 
 -   **Description:** Provides personalized outfit, playlist, and food suggestions
     
--   **Query Parameters:** see [Request Parameters](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#request-parameters)
-    
--   **Response:** see [Response Schema](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#response-schema)
+- **Query Parameters:** see [Request Parameters](#request-parameters)
+  
+- **Response:** see [Response Schema](#response-schema)
+
     
 
 ----------
