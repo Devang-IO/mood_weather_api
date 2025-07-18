@@ -237,4 +237,5 @@ Please adhere to the code style and add tests where appropriate.
 
 ## License
 
-This project is licensed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for details.
+This project is licensed under the MIT License. See [MIT License](https://github.com/Devang-IO/mood_weather_api/blob/main/LICENSE) for details.
+
