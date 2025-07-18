@@ -7,36 +7,21 @@ An advanced, beginner-friendly Flask API that combines weather data and user moo
 
 ### 🏗️ Table of Contents
 
-1.  [Features](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#features)
-    
-2.  [Prerequisites](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#prerequisites)
-    
-3.  [Installation](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#installation)
-    
-4.  [Environment Variables](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#environment-variables)
-    
-5.  [Running the Application](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#running-the-application)
-    
-6.  [API Endpoints](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#api-endpoints)
-    
-    -   [GET `/`](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#get-)
-        
-    -   [GET `/suggestion`](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#get-suggestion)
-        
-7.  [Request Parameters](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#request-parameters)
-    
-8.  [Response Schema](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#response-schema)
-    
-9.  [Error Handling](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#error-handling)
-    
-10.  [Examples](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#examples)
-    
-11.  [Deployment](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#deployment)
-    
-12.  [Contributing](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#contributing)
-    
-13.  [License](https://chatgpt.com/c/687a3bb1-6b90-8000-b490-f200f52c5105#license)
-    
+1. [Features](#features)  
+2. [Prerequisites](#prerequisites)  
+3. [Installation](#installation)  
+4. [Environment Variables](#environment-variables)  
+5. [Running the Application](#running-the-application)  
+6. [API Endpoints](#api-endpoints)  
+   - [GET `/`](#get-)  
+   - [GET `/suggestion`](#get-suggestion)  
+7. [Request Parameters](#request-parameters)  
+8. [Response Schema](#response-schema)  
+9. [Error Handling](#error-handling)  
+10. [Examples](#examples)  
+11. [Deployment](#deployment)  
+12. [Contributing](#contributing)  
+13. [License](#license)  
 
 ----------
 
