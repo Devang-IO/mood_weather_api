@@ -60,8 +60,8 @@ An advanced, beginner-friendly Flask API that combines weather data and user moo
 1.  Clone the repository:
     
     ```bash
-    git clone https://github.com/yourusername/mood-weather-spotify-api.git
-    cd mood-weather-spotify-api
+    git clone https://github.com/Devang-IO/mood_weather_spotify_api.git
+    cd mood_weather_spotify_api
     
     ```
     
@@ -114,7 +114,8 @@ python app.py
 
 ```
 
-The API will be available at `http://127.0.0.1:5000/`.
+The API will be available at `http://127.0.0.1:5000/` (for local development)  
+The live version is available at `https://mood-weather-api.onrender.com/`
 
 ----------
 
@@ -146,41 +147,11 @@ The API will be available at `http://127.0.0.1:5000/`.
 
 ## Request Parameters
 
-Parameter
-
-Type
-
-Required
-
-Default
-
-Description
-
-city
-
-string
-
-yes
-
-Name of the city (e.g., `Delhi`, `Paris`)
-
-mood
-
-string
-
-yes
-
-User's mood (e.g., `excited`, `tired`, `romantic`)
-
-scope
-
-string
-
-no
-
-`regional`
-
-`regional` or `international` for playlist market selection
+| Parameter | Type   | Required | Default    | Description                                           |
+|-----------|--------|----------|------------|-------------------------------------------------------|
+| city      | string | yes      | -          | Name of the city (e.g., `Delhi`, `Paris`)           |
+| mood      | string | yes      | -          | User's mood (e.g., `excited`, `tired`, `romantic`)  |
+| scope     | string | no       | `regional` | `regional` or `international` for playlist market selection |
 
 ----------
 
